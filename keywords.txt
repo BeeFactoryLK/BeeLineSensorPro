@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map for BeeLineSensorPro
+# (formerly BeeLineSensorPro)
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BeeLineSensorPro	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+calibrate	KEYWORD2
+readSensor	KEYWORD2
+clearRegisters	KEYWORD2
+writeRegisters	KEYWORD2
+setRegisterPin	KEYWORD2 
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
