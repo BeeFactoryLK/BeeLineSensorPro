@@ -1,4 +1,4 @@
-# BeeIR
+# BeeLineSensorPro
 Easy to use IR line sensing library using our BeeIR 8X IR sensor array.
 
 Function and support library for the Beefactory 8X IR Sensor Panel
